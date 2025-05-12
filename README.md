@@ -3,16 +3,7 @@
 
 
 
-### 🚀 Highlight Projects
 
-Here are some of my recent and notable GitHub Pages projects:
-
-- 🎨 [Personal Portfolio](https://github.com/MahaSaad12/MahaSaad12.github.io)
-- 💼 [Java Developer Portfolio](https://github.com/MahaSaad12/maha111.github.io)
-- 🎵 [Music Website](https://github.com/MahaSaad12/Musicwebsite.git.io)
-- 🌐 [Web Portfolio with CSS](https://github.com/MahaSaad12/portfolio12.github.io)
-
----
 
 ### 📈 GitHub Stats
 
