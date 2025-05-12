@@ -1,28 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Maha Saad</h1>
 <h3 align="center">Web Developer | Java Programmer | Lifelong Learner</h3>
 
----
 
-### 💡 About Me
-
-- 🔭 I’m currently working on **web-based projects** using HTML, CSS, JavaScript, and Java.
-- 🌱 Exploring **Machine Learning and AI** concepts alongside development.
-- 👩‍💻 Passionate about building clean, responsive, and user-friendly applications.
-- 💬 Ask me about **Java, HTML/CSS, JavaScript, or GitHub Pages**.
-- 📫 Reach me at **mahasaad12@gmail.com**
-
----
-
-### 🛠️ Skills & Tools
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code)
-
----
 
 ### 🚀 Highlight Projects
 
